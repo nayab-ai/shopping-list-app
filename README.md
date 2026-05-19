@@ -33,21 +33,7 @@ This app helps users manage their daily shopping items with an easy-to-use inter
 - Hive Database  
 - Android Studio  
 
----
-
-## 📸 Screenshots
-
-> Add your app screenshots here (recommended)
-
-Example:
-```
-
-assets/images/home.png
-assets/images/add_item.png
-
-```
-
----
+--
 
 ## 📂 Project Structure
 
@@ -95,14 +81,6 @@ flutter run
 
 ---
 
-## 👩‍💻 Developer
-
-- Name: Your Name  
-- Field: BSCS Student  
-- Skills: Flutter, Dart, Web Development, UI Design  
-
----
-
 ## 📌 Future Improvements
 
 - Cloud sync support  
@@ -112,28 +90,3 @@ flutter run
 
 ---
 
-## ⭐ If you like this project
-
-Give a ⭐ on the repository to support!
-```
-
----
-
-# 🚀 Next Step (important)
-
-GitHub me jao → `README.md` file:
-
-1. Add file → Create new file
-2. Name: `README.md`
-3. Paste this content
-4. Commit changes ✔
-
----
-
-Agar chaho to main tumhare liye:
-
-* 📸 screenshots place karne ka best layout
-* 💼 LinkedIn post (internship ready)
-* 🔥 GitHub profile ko aur professional bana doon
-
-bas bata do 👍
